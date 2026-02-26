@@ -1,0 +1,6 @@
+"timestamp","sourceIam","targetIam","sourceUserId","sourceEmail","targetUserId","key","value","appliedVia","verifiedInBimAuthorizations","details"
+"2026-02-25T13:57:38","ImmutaSaaSDev","OktaSaas","aakash.devaraj@takeda.com","aakash.devaraj@takeda.com","aakash.devaraj@takeda.com","profile.country","IN","ImmutaBimApi","True",""
+"2026-02-25T13:57:38","ImmutaSaaSDev","OktaSaas","aakash.devaraj@takeda.com","aakash.devaraj@takeda.com","aakash.devaraj@takeda.com","profile.jobrole","Data Security & Access Engineer","ImmutaBimApi","True",""
+"2026-02-25T13:57:38","ImmutaSaaSDev","OktaSaas","aakash.devaraj@takeda.com","aakash.devaraj@takeda.com","aakash.devaraj@takeda.com","profile.division","Enterprise Data","ImmutaBimApi","True",""
+"2026-02-25T13:57:38","ImmutaSaaSDev","OktaSaas","aakash.devaraj@takeda.com","aakash.devaraj@takeda.com","aakash.devaraj@takeda.com","profile.businessunit","Data, Digital & Technology","ImmutaBimApi","True",""
+"2026-02-25T13:57:38","ImmutaSaaSDev","OktaSaas","aakash.devaraj@takeda.com","aakash.devaraj@takeda.com","aakash.devaraj@takeda.com","profile.employeetype","Employee","ImmutaBimApi","True",""
