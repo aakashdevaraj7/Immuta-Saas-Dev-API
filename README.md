@@ -1,5 +1,3 @@
-Here is a clean, **shortened GitHub‑friendly README.md** that keeps only the essentials while staying accurate and professional:
-
 ***
 
 # Immuta SaaS Dev — Entra → Okta Attribute Transfer (PowerShell)
